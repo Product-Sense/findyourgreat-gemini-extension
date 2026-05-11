@@ -5,7 +5,7 @@ Access your [FindYourGreat](https://www.findyourgreat.com) work data directly fr
 ## Install
 
 ```bash
-gemini extensions install https://github.com/brendanfortune/findyourgreat-gemini-extension
+gemini extensions install https://github.com/Product-Sense/findyourgreat-gemini-extension
 ```
 
 ## Authentication
