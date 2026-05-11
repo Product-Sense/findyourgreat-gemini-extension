@@ -1,6 +1,6 @@
-# FindYourGreat for Gemini CLI
+# Find Your Great for Gemini CLI
 
-Access your [FindYourGreat](https://www.findyourgreat.com) work data directly from Gemini CLI. Query your work activity, career evaluation scores, behavioral patterns, development plans, impact updates, and team information through 39 read-only tools.
+Access your [Find Your Great](https://www.findyourgreat.com) work data directly from Gemini CLI. Query your work activity, career evaluation scores, behavioral patterns, development plans, impact updates, and team information through 39 read-only tools.
 
 ## Install
 
@@ -10,7 +10,7 @@ gemini extensions install https://github.com/Product-Sense/findyourgreat-gemini-
 
 ## Authentication
 
-On first use, Gemini CLI will open your browser for OAuth authentication. Sign in with your FindYourGreat account, pick your organization, and approve the requested scopes. Tokens are stored locally and refreshed automatically.
+On first use, Gemini CLI will open your browser for OAuth authentication. Sign in with your Find Your Great account, pick your organization, and approve the requested scopes. Tokens are stored locally and refreshed automatically.
 
 ## Available tools
 
@@ -32,6 +32,6 @@ On first use, Gemini CLI will open your browser for OAuth authentication. Sign i
 
 ## Links
 
-- [FindYourGreat](https://www.findyourgreat.com)
+- [Find Your Great](https://www.findyourgreat.com)
 - [Privacy Policy](https://www.findyourgreat.com/privacy)
 - [Terms of Service](https://www.findyourgreat.com/terms)
